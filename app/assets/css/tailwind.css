@@ -1,0 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/ghostkid-aoe-pro');
+@import url('https://fonts.cdnfonts.com/css/desyrel');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
